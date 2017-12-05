@@ -1,0 +1,82 @@
+body {
+    background-color: #FF875F;
+}
+
+.titulo {
+    color: white;
+    text-align: right;
+    padding: 3em;
+    padding-right: 3em;
+}
+
+.h1Titulo {
+    font-weight: bold;
+}
+
+.sizep {
+    font-size: 1.3em;
+}
+
+.espacio {
+    padding-bottom: 2em;
+}
+
+.espacioTwo {
+    padding-top: 2em;
+}
+
+footer {
+    color: white;
+    font-size: 1.2em;
+    text-align: right;
+    padding-right: 2em;
+}
+
+.padre {
+    background: #93F082;
+    height: 40em;
+    /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hijo {
+    width: 70em;
+    padding: 3em;
+    font-size: 1em;
+    text-align: center;
+}
+
+.hijoOne {
+    width: 40em;
+    padding: 3em;
+    font-size: 1em;
+    text-align: center;
+    background-color: #FF875F;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    font-weight: bold;
+}
+
+.titulo2 {
+    display: block;
+}
+
+.imgPanda {
+    margin: 1em;
+    border: 1em white solid;
+}
+
+.tituloPandas {
+    color: white;
+    font-weight: bold;
+}
